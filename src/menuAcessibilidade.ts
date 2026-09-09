@@ -30,11 +30,7 @@ document.body.style.fontSize = tamanhoFonte + "px";
 const btnAlterarContraste  = document.getElementById("btnAlterarContraste") as HTMLButtonElement;
 btnAlterarContraste.addEventListener("click", ()  => {
 document.body.classList.toggle("contraste");
-788ii´0o[
-    ´p[´
-[21']
-    ]
-]});
+});
 }
 
 carregarMenuAcessibilidade();
