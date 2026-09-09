@@ -37,7 +37,7 @@ width: 90%;
 margin: 10px auto;
 }
 
-.contraste {
+.contraste, .contraste button {
     background-color: black;
     color: white;
 }
@@ -45,3 +45,8 @@ margin: 10px auto;
 .contraste td, .contraste th {
 border: 1px solid yellow;    
 }
+
+.contraste a {
+ color: yellow;
+}
+
